@@ -133,9 +133,11 @@
     <ClCompile Include="MyHuman.cpp" />
     <ClCompile Include="Phone.cpp" />
     <ClCompile Include="Room.cpp" />
+    <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Book.h" />
+    <ClInclude Include="Student.h" />
     <ClInclude Include="InGameCurrency.h" />
     <ClInclude Include="Phone.h" />
     <ClInclude Include="MyHuman.h" />
